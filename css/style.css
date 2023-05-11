@@ -750,19 +750,19 @@ span{
 
 @font-face {
         font-family: "Montserrat";  
-        src: url("fonts/Montserrat.ttf") format("truetype"); 
+        src: url("/fonts/Montserrat.ttf") format("truetype"); 
         font-style: normal; 
         font-weight: normal;
         }  
 @font-face{
         font-family: "Montserrat-Medium";
-        src: url("fonts/Montserrat-Medium.ttf") format("truetype");
+        src: url("/fonts/Montserrat-Medium.ttf") format("truetype");
         font-style: normal; 
         font-weight: normal; 
         }
  @font-face{
         font-family: "Montserrat-Regular";
-        src: url("fonts/Montserrat-Regular.ttf") format("truetype");
+        src: url("/fonts/Montserrat-Regular.ttf") format("truetype");
         font-style: normal; 
         font-weight: normal; 
 }

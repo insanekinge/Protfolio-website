@@ -201,7 +201,7 @@ cursor: pointer;
 }   
 .header__language-en::after{
 padding-left: 5px;
-content: url('/img/arrow.png');
+content: url('./img/arrow.png');
 }
 
 /*CONTAINER*/
@@ -269,7 +269,7 @@ content: url('/img/arrow.png');
 }
 .main__content-button::after{
         padding-left: 10px;
-        content: url('/img/bluearrow.png');
+        content: url('./img/bluearrow.png');
 }
 
 .main__photo{
@@ -293,7 +293,7 @@ content: url('/img/arrow.png');
         position: absolute;
         right: 0px;
         top: 121px;
-        content: url('/img/profilepic_desctop.png');
+        content: url('./img/profilepic_desctop.png');
 }
 .main__socials{
         display: flex;
@@ -363,7 +363,7 @@ content: url('/img/arrow.png');
 
 .portfolio__top-button::after{
         padding-left: 10px;
-        content: url('/img/bluearrow.png');
+        content: url('./img/bluearrow.png');
 }
 
 .portfolio__list{
@@ -423,7 +423,7 @@ content: url('/img/arrow.png');
 
 .portfolio__card-bottom-link::after{
         padding-left: 5px;
-        content: url('/img/bluearrow.png');
+        content: url('./img/bluearrow.png');
 }
 
 .portfolio__card-bottom-date{
@@ -473,7 +473,7 @@ content: url('/img/arrow.png');
 
 .info__top-button::after{
         padding-left: 10px;
-        content: url('/img/bluearrow.png');
+        content: url('./img/bluearrow.png');
 }
 .info__conteiner{
         display: flex;
@@ -497,7 +497,7 @@ content: url('/img/arrow.png');
         right: 53px;
         padding-top: 13px;
         padding-left: 103px;
-        content: url(/img/git-profile.png);
+        content: url(./img/git-profile.png);
         max-width: 660px;
         max-height: 422px ;
 }
@@ -746,19 +746,19 @@ content: url('/img/arrow.png');
 
 @font-face {
         font-family: "Montserrat";  
-        src: url("/fonts/Montserrat.ttf") format("truetype"); 
+        src: url("./fonts/Montserrat.ttf") format("truetype"); 
         font-style: normal; 
         font-weight: normal;
         }  
 @font-face{
         font-family: "Montserrat-Medium";
-        src: url("/fonts/Montserrat-Medium.ttf") format("truetype");
+        src: url("./fonts/Montserrat-Medium.ttf") format("truetype");
         font-style: normal; 
         font-weight: normal; 
         }
  @font-face{
         font-family: "Montserrat-Regular";
-        src: url("/fonts/Montserrat-Regular.ttf") format("truetype");
+        src: url("./fonts/Montserrat-Regular.ttf") format("truetype");
         font-style: normal; 
         font-weight: normal; 
 }

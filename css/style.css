@@ -3,11 +3,13 @@
 body{
         font-family: 'Montserrat-Medium';
         color:#000000;
-        background-color: #ffffff;
+        background-color: rgb(255, 255, 255);
 }
 span{
         color: #F56B6B;
 }
+
+
 .wrapper{
         position: relative;
         overflow: hidden;
@@ -327,7 +329,7 @@ content: url('../img/arrow.png');
 .portfolio{
         display: flex;
         flex-direction: column;
-        margin-top: 114px;
+        margin-top: 262px;
         padding: 77px 50px;
         max-width: 1180px;
         border: 1px #ffffff solid;
